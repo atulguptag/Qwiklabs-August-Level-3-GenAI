@@ -1,9 +1,3 @@
-# Lab Name - Analyze Images with the Cloud Vision API: Challenge Lab [ARC122]
-
-# Lab Link - https://www.cloudskillsboost.google/focuses/64748?catalog_rank
-
-# Make sure to run this command "export API_KEY=<YOUR_API_KEY>" before uploading the file into your Cloud Shell Terminal.
-
 
 cat > request.json <<EOF
 {
